@@ -30,7 +30,7 @@ def count_non_zero_rows(matrix):
     return count
 #2)
 def max_of_numbers_once_in_matrix(matrix):
-    counts = {} # хеш таблицы, наши любимые
+    counts = {}
     max_repeated = None
 
     # Подсчитываем количество встреч каждого числа в матрице
