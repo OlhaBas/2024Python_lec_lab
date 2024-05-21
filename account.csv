@@ -1,0 +1,7 @@
+id,User_id,Type,Account_Number,Bank_id,Currency,Amount,Status
+1,1,Credit,ID--x-3-1123456-y7,2,USD,5000,Golden
+2,2,Debit,ID--A-9-9187654-Z2,1,EUR,3000,Silver
+3,3,Debit,ID--b-5-5155555-j9,2,GBP,7000,Platinum
+4,4,Credit,ID--J-8-8188888-H1,3,GBP,7000,Platinum
+5,5,Credit,ID--q-0-0112345-z3,2,GBP,7000,Platinum
+6,6,Debit,ID--Z-2-2212222-D4,4,GBP,7000,Platinum
