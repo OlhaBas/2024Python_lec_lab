@@ -1,0 +1,4 @@
+id,Bank_sender_name,Account_sender_id,Bank_receiver_name,Account_receiver_id,Sent_Currency,Sent_Amount,Datetime,Receiver_currency,Sender_currency,
+1,MonoBank,1,MonoBank,3,USD,1000,2024-05-16,USD,USD,""
+2,MonoBank,3,MonoBank,1,EUR,500,2024-05-16,EUR,EUR,""
+3,PrivatBank,2,MonoBank,3,USD,800,2024-05-16,USD,USD,""
